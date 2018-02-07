@@ -284,8 +284,8 @@
 #u145 {
   border-width:0px;
   position:absolute;
-  left:93px;
-  top:795px;
+  left:94px;
+  top:794px;
   width:78px;
   height:25px;
   font-family:'ArialMT', 'Arial';
@@ -316,6 +316,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
   font-size:15px;
   color:#D6323F;
   text-align:center;
@@ -323,10 +326,13 @@
 #u146 {
   border-width:0px;
   position:absolute;
-  left:87px;
+  left:86px;
   top:837px;
   width:91px;
   height:21px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
   font-size:15px;
   color:#D6323F;
   text-align:center;
@@ -363,8 +369,8 @@
 #u147 {
   border-width:0px;
   position:absolute;
-  left:281px;
-  top:666px;
+  left:275px;
+  top:653px;
   width:205px;
   height:222px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -743,7 +749,7 @@
 #u160 {
   border-width:0px;
   position:absolute;
-  left:304px;
+  left:307px;
   top:180px;
   width:110px;
   height:120px;
@@ -805,8 +811,8 @@
 #u162 {
   border-width:0px;
   position:absolute;
-  left:306px;
-  top:306px;
+  left:304px;
+  top:310px;
   width:107px;
   height:28px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -845,7 +851,7 @@
   border-width:0px;
   position:absolute;
   left:287px;
-  top:350px;
+  top:344px;
   width:145px;
   height:21px;
   font-size:15px;
@@ -927,7 +933,7 @@
   border-width:0px;
   position:absolute;
   left:592px;
-  top:306px;
+  top:310px;
   width:157px;
   height:28px;
   font-family:'ArialMT', 'Arial';
@@ -966,7 +972,7 @@
   border-width:0px;
   position:absolute;
   left:576px;
-  top:350px;
+  top:344px;
   width:189px;
   height:21px;
   font-size:15px;
@@ -1152,7 +1158,7 @@
   border-width:0px;
   position:absolute;
   left:762px;
-  top:636px;
+  top:627px;
   width:216px;
   height:274px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -2239,8 +2245,8 @@
 #u206 {
   border-width:0px;
   position:absolute;
-  left:768px;
-  top:1307px;
+  left:774px;
+  top:1305px;
   width:219px;
   height:216px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
