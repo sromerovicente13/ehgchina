@@ -1182,3 +1182,166 @@
   width:68px;
   white-space:nowrap;
 }
+
+
+/* Style inputs with type="text", select elements and textareas */
+	input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */  
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+
+
+/* Style the submit button with a specific background color etc */
+	input[type=submit] {
+    background-color: #c11e2e;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+
+/* When moving the mouse over the submit button, add a darker green color */
+	input[type=submit]:hover {
+    background-color: #1fbb0e;
+}
+
+/* Add a background color and some padding around the form */
+	.container {
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+#u31 {
+  position:absolute;
+  left:0px;
+  top:620px;
+  width:101px;
+  white-space:nowrap;
+}
+#u32 {
+  position:absolute;
+  left:319px;
+  top:930px;
+  width:400px;
+  height:25px;
+}
+#u32_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:400px;
+  height:25px;
+  background-image:;
+  text-align:left;
+  font-family:'Arial';
+  font-size:13px;
+  color:#999999;
+  font-weight:normal;
+  font-style:normal;
+  text-decoration:none;
+}
+#u33 {
+  position:absolute;
+  left:319px;
+  top:970px;
+  width:400px;
+  height:25px;
+}
+#u33_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:400px;
+  height:25px;
+  background-image:;
+  text-align:left;
+  font-family:'Arial';
+  font-size:13px;
+  color:#999999;
+  font-weight:normal;
+  font-style:normal;
+  text-decoration:none;
+}
+#u34 {
+  position:absolute;
+  left:319px;
+  top:1010px;
+  width:400px;
+  height:130px;
+}
+#u34_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:400px;
+  height:130px;
+  background-image:;
+  text-align:left;
+  font-family:'Arial';
+  font-size:13px;
+  color:#999999;
+  font-weight:normal;
+  font-style:normal;
+  text-decoration:none;
+}
+#u35 {
+  position:absolute;
+  left:465px;
+  top:1160px;
+  width:99px;
+  height:30px;
+  color:#FFFFFF;
+}
+#u35_img {
+  position:absolute;
+  left:-2px;
+  top:-2px;
+  width:109px;
+  height:40px;
+}
+#u35_img.mouseDown {
+  left:0px;
+  top:0px;
+  width:99px;
+  height:30px;
+}
+#u35.mouseDown {
+}
+#u36 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:95px;
+  word-wrap:break-word;
+}
+#u37 {
+  position:absolute;
+  left:0px;
+  top:1300px;
+  width:1024px;
+  height:100px;
+}
+#u37_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1024px;
+  height:100px;
+}
